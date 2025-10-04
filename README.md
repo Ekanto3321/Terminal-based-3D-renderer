@@ -1,4 +1,4 @@
-##Instructions
+## Instructions
 
 Just run the run.sh 
 
